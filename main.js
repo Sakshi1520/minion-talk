@@ -1,5 +1,5 @@
 var btn = document.querySelector('#submit-btn');
-var url = "https://api.funtranslations.com/translate/groot.json";
+var url = "https://api.funtranslations.com/translate/minion.json";
 
 function translateText(text){
     var url1 = url + '?text=' + text;
